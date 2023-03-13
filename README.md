@@ -1,5 +1,7 @@
 # Vertical Line Chart Mod for TIBCO Spotfire®
 
+<img src="assets/verticalline.png" width="60%"/>
+
 Allows visualization of vertically oriented axis instead of horizontally oriented axis by displaying multiple variables using the visualization Y-axis as the category axis, and the X-axis as the value axis. This is the opposite orientation to a standard Spotfire line chart.
 
 One particularly useful use case for this chart is to visualize well metrics in a vertical orientation matching the depth of the well being analyzed.
