@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg3713"
+   width="489.92001"
+   height="545.28003"
+   viewBox="0 0 489.92001 545.28003"
+   sodipodi:docname="plotly-logo.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata3719">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3717" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3715"
+     showgrid="false"
+     inkscape:zoom="1.5001466"
+     inkscape:cx="195.66393"
+     inkscape:cy="207.06379"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#447adb;fill-opacity:1;stroke:none;stroke-width:1.02532041"
+       id="rect3753"
+       width="47.135845"
+       height="38.65139"
+       x="42.42226"
+       y="270.9494" />
+    <rect
+       style="fill:#447adb;fill-opacity:1;stroke:none;stroke-width:1.42774701"
+       id="rect3753-8"
+       width="47.135845"
+       height="74.945992"
+       x="101.81342"
+       y="234.18346" />
+    <rect
+       style="fill:#447adb;fill-opacity:1;stroke:none;stroke-width:2.67226958"
+       id="rect3753-4"
+       width="47.135845"
+       height="262.54666"
+       x="161.67595"
+       y="46.111423" />
+    <rect
+       style="fill:#447adb;fill-opacity:1;stroke:none;stroke-width:2.25888562"
+       id="rect3753-83"
+       width="47.135845"
+       height="187.60066"
+       x="221.06711"
+       y="121.05745" />
+    <rect
+       style="fill:#447adb;fill-opacity:1;stroke:none;stroke-width:2.47293019"
+       id="rect3753-0"
+       width="47.135845"
+       height="224.83798"
+       x="281.40097"
+       y="83.348755" />
+    <rect
+       style="fill:#447adb;fill-opacity:1;stroke:none;stroke-width:1.75411594"
+       id="rect3753-40"
+       width="47.135845"
+       height="113.12602"
+       x="340.3208"
+       y="196.00342" />
+    <rect
+       style="fill:#447adb;fill-opacity:1;stroke:none;stroke-width:1.02532041"
+       id="rect3753-3"
+       width="47.135845"
+       height="38.65139"
+       x="400.20306"
+       y="270.27493" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.71874237px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#447adb;fill-opacity:1;stroke:none;stroke-width:1.06796849;"
+       x="29.839403"
+       y="470.32721"
+       id="text4607"
+       transform="scale(1.0094105,0.99067724)"><tspan
+         sodipodi:role="line"
+         id="tspan4605"
+         x="29.839403"
+         y="470.32721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.99475098px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:1.06796849;fill:#447adb;fill-opacity:1;">plotly</tspan></text>
+  </g>
+</svg>

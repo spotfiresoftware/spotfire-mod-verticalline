@@ -1,0 +1,57 @@
+{
+    "apiVersion": "1.0",
+    "version": "2.0.1",
+    "name": "Vertical Line Chart",
+    "id": "vertical-line-chart",
+    "icon": "images/Icons-Vertical_Line_Chart_24px.svg",
+    "properties": [
+        {
+            "name": "plotly-config-0",
+            "type": "string",
+            "defaultValue": "{\n \"layout\": {\n  \"margin\": {\n   \"t\": 20,\n   \"r\": 5,\n   \"b\": 10,\n   \"l\": 100\n  },\n  \"paper_bgcolor\": \"transparent\",\n  \"plot_bgcolor\": \"transparent\",\n  \"showlegend\": false,\n  \"xaxis\": {\n   \"linecolor\": \"#BBBBBB\",\n   \"showgrid\": false,\n   \"showline\": true,\n   \"side\": \"top\",\n   \"ticks\": \"outside\",\n   \"zeroline\": false\n  },\n  \"yaxis\": {\n   \"autorange\": \"reversed\",\n   \"linecolor\":\"#BBBBBB\",\n   \"nticks\": 10,\n   \"showgrid\": false,\n   \"showline\": true,\n   \"showticklabels\": true,\n   \"ticks\": \"outside\",\n   \"zeroline\": false\n  }\n },\n \"options\": {\n  \"displayModeBar\":false\n },\n \"defaultTrace\": {\n  \"hoverinfo\": \"none\",\n  \"line\": {\n   \"shape\": \"linear\",\n   \"width\": 3\n  },\n  \"marker\": {\n   \"color\": null,\n   \"size\": 1\n  },\n  \"mode\":\"lines+markers\",\n  \"name\": null,\n  \"selected\": {\n   \"marker\": {\n    \"size\": 8\n   }\n  },\n  \"type\": \"scatter\"\n }\n}\n"
+        },
+        {
+            "name": "plotly-config-1",
+            "type": "string",
+            "defaultValue": ""
+        },
+        {
+            "name": "plotly-config-2",
+            "type": "string",
+            "defaultValue": ""
+        }
+    ],
+    "dataViewDefinition": {
+        "colorAxis": {
+            "mode": "dual",
+            "dropTarget": {
+                "icon": "Color",
+                "description": "Color by {0}"
+            }
+        },
+        "axes": [
+            {
+                "name": "X",
+                "mode": "continuous",
+                "allowMultipleMeasures": true,
+                "placement": "top"
+            },
+            {
+                "name": "Y",
+                "mode": "categorical",
+                "placement": "left"
+            },
+            {
+                "name": "Line by",
+                "mode": "categorical",
+                "placement": "none"
+            },
+            {
+                "name": "Color background by",
+                "mode": "categorical",
+                "placement": "none"
+            }
+        ]
+    },
+    "files": ["index.html", "main.css", "main.js", "viz_configuration.js", "lib/plotly-latest.min.js", "images/gear-dark.png", "images/gear-light.png"]
+}
