@@ -8,6 +8,8 @@ One particularly useful use case for this chart is to visualize well metrics in 
 
 ## Installation & Use
 
+[Download latest version](https://github.com/TIBCOSoftware/spotfire-mod-verticalline/releases)
+
 The [Wiki](https://github.com/TIBCOSoftware/spotfire-mod-verticalline/wiki) contains step-by-step instruction on how to install and use this Mod in TIBCO Spotfire®.
 
 ## Building the Project
