@@ -1,4 +1,4 @@
-# Vertical Line Chart Mod for TIBCO Spotfire®
+# Vertical Line Chart Mod for Spotfire®
 
 <img src="assets/verticalline.png" width="60%"/>
 
@@ -8,9 +8,9 @@ One particularly useful use case for this chart is to visualize well metrics in 
 
 ## Installation & Use
 
-[Download latest version](https://github.com/TIBCOSoftware/spotfire-mod-verticalline/releases)
+[Download latest version](https://github.com/spotfiresoftware/spotfire-mod-verticalline/releases)
 
-The [Wiki](https://github.com/TIBCOSoftware/spotfire-mod-verticalline/wiki) contains step-by-step instruction on how to install and use this Mod in TIBCO Spotfire®.
+The [Wiki](https://github.com/spotfiresoftware/spotfire-mod-verticalline/wiki) contains step-by-step instruction on how to install and use this Mod in Spotfire®.
 
 ## Building the Project
 
@@ -18,7 +18,7 @@ In a terminal window:
 - `npm install`
 - `npm start`
 
-## About Mods for TIBCO Spotfire®
+## About Mods for Spotfire®
 -   [TIBCO Community Exchange](https://community.tibco.com/s/global-search/%40uri#q=mod%20for%20tibco%20spotfire&t=Exchange&sort=date%20descending): A safe and trusted place to discover ready-to-use mods
 -   [Developer documentation](https://tibcosoftware.github.io/spotfire-mods/docs/): Introduction and tutorials for mods developers
--   [Mods examples made by TIBCO](https://github.com/TIBCOSoftware/spotfire-mods/releases/latest): A public repository for examples projects
+-   [Mods examples](https://github.com/TIBCOSoftware/spotfire-mods/releases/latest): A public repository for examples projects
